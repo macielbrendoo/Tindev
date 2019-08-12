@@ -12,3 +12,5 @@ server.use(express.json());
 server.use(routes);
 
 server.listen(3333);
+
+//Parou no video 2 - 52:55
